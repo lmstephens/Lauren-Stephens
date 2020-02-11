@@ -104,7 +104,10 @@ img {
 }
 
 /* --- Navbar --- */
-
+.navbar-brand{
+    padding: 12px 12px;
+    font-size: 28px;
+}
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
