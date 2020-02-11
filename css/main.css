@@ -105,8 +105,8 @@ img {
 
 /* --- Navbar --- */
 .logo-name{
-  font-size:28px;
-  padding: 12px 12px;
+  font-size:28px!important;
+  padding: 12px 12px!important;
 }
 .navbar-custom {
   background-color: #24a0ed;
