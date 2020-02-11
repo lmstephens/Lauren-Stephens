@@ -104,7 +104,10 @@ img {
 }
 
 /* --- Navbar --- */
-
+.logo-name{
+  font-size:28px;
+  padding: 12px 12px;
+}
 .navbar-custom {
   background-color: #24a0ed;
   /*--{{ site.navbar-col }};--*/
