@@ -10,7 +10,7 @@ comments: true
 
 Hello this is my new blog post about weather
 <div class="video-container">
-<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/1.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/1.embed"></iframe>
 </div>
 <div class="video-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/3.embed"></iframe>
