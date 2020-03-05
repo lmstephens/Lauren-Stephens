@@ -2,10 +2,10 @@
 layout: post
 title: 2013-2019 Weather Damage
 subtitle: The monetary cost of damage caused by the weather
-gh-repo: daattali/beautiful-jekyll
+gh-repo: https://github.com/lmstephens
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-
+Hello this is my new blog post about weather
