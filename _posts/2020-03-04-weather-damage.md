@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2013-2019 Weather Damage
-subtitle: The monetary cost of damage caused by the weather
+subtitle: The monetary cost of damage caused by storms
 gh-repo: https://github.com/lmstephens
 gh-badge: [star, fork, follow]
 tags: [test]
