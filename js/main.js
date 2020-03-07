@@ -138,3 +138,14 @@ var main = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', main.init);
+
+//bootstrap tab activation 
+$('#yearTab a').click(function (e) {
+  e.preventDefault();
+  $(this).tab('show');
+})
+
+$('#yearTab a[href="#2013"]').tab('show'); // Select tab by name
+$('#yearTab a:first').tab('show'); // Select first tab
+$('#yearTab a:last').tab('show'); // Select last tab
+$('#yearTab li:eq(2) a').tab('show'); // Select third tab (0-indexed)
