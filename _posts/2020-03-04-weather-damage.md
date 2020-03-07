@@ -25,13 +25,13 @@ comments: true
 </ul>
 
 <div class="tab-content" id="myTabContent">
-	<div id="2013">Map 2013</div>
-	<div id="2014">Map 2014</div>
-	<div id="2015">Map 2015</div>
-	<div id="2016">Map 2016</div>
-	<div id="2017">Map 2017</div>
-	<div id="2018">Map 2018</div>
-	<div id="2019">Map 2019</div>
+	<div id="2013" class="tab-pane fade show active">Map 2013</div>
+	<div id="2014" class="tab-pane fade">Map 2014</div>
+	<div id="2015" class="tab-pane fade">Map 2015</div>
+	<div id="2016" class="tab-pane fade">Map 2016</div>
+	<div id="2017" class="tab-pane fade">Map 2017</div>
+	<div id="2018" class="tab-pane fade">Map 2018</div>
+	<div id="2019" class="tab-pane fade">Map 2019</div>
 </div>
 
 
