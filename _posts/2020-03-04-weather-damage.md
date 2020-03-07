@@ -14,6 +14,10 @@ comments: true
 
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
 
+<div class="video-container">
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
+</div>
+
 <ul class="nav nav-tabs">
   <li><a href="#2013" data-toggle="tab">2013</a></li>
   <li><a href="#2014" data-toggle="tab">2014</a></li>
@@ -47,8 +51,3 @@ comments: true
 		<img src="../img/2019map.png">
 	</div>
 </div>
-
-<div class="video-container">
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
-</div>
-
