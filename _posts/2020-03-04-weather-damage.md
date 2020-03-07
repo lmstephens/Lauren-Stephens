@@ -28,22 +28,22 @@ comments: true
 	<div id="2013" class="tab-pane fade active">
 		<img src="../img/2013map.png">
 	</div>
-	<div id="2014" class="tab-pane fade out">
+	<div id="2014" class="tab-pane fade">
 		<img src="../img/2014map.png">
 	</div>
-	<div id="2015" class="tab-pane fade out">
+	<div id="2015" class="tab-pane fade">
 		<img src="../img/2015map.png">
 	</div>
-	<div id="2016" class="tab-pane fade out">
+	<div id="2016" class="tab-pane fade">
 		<img src="../img/2016map.png">
 	</div>
-	<div id="2017" class="tab-pane fade out">
+	<div id="2017" class="tab-pane fade">
 		<img src="../img/2017map.png">
 	</div>
-	<div id="2018" class="tab-pane fade out">
+	<div id="2018" class="tab-pane fade">
 		<img src="../img/2018map.png">
 	</div>
-	<div id="2019" class="tab-pane fade out">
+	<div id="2019" class="tab-pane fade">
 		<img src="../img/2019map.png">
 	</div>
 </div>
