@@ -145,7 +145,7 @@ $('#yearTab a').click(function (e) {
   $(this).tab('show');
 })
 
-$('#yearTab a[href="#maps"]').tab('show'); // Select tab by name
+$('#yearTab a[href="#myTabContent"]').tab('show'); // Select tab by name
 $('#yearTab a:first').tab('show'); // Select first tab
 $('#yearTab a:last').tab('show'); // Select last tab
 $('#yearTab li:eq(2) a').tab('show'); // Select third tab (0-indexed)
