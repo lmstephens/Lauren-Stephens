@@ -26,14 +26,20 @@ comments: true
 
 <div class="tab-content" id="myTabContent">
 	<div id="2013" class="tab-pane fade show active">
-		<div>
-		    <a href="https://plot.ly/~Lmstephens/1/?share_key=R80WAM6FMaPIl9tgBIGtwx" target="_blank" title="2013 Weather Damage" style="display: block; text-align: center;"><img src="https://plot.ly/~Lmstephens/1.png?share_key=R80WAM6FMaPIl9tgBIGtwx" alt="2013 Weather Damage" style="max-width: 100%;width: 1200px;"  width="1200" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-		    <script data-plotly="Lmstephens:1" sharekey-plotly="R80WAM6FMaPIl9tgBIGtwx" src="https://plot.ly/embed.js" async></script>
-		    <img src="../img/3013mesurebar.png">
+		<div class="video-container">
+		<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
 		</div>
 	</div>
-	<div id="2014" class="tab-pane fade"><img src="https://chart-studio.plot.ly/~Lmstephens/3.embed"></div>
-	<div id="2015" class="tab-pane fade">Map 2015</div>
+	<div id="2014" class="tab-pane fade">
+		<div class="video-container">
+		<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/1.embed"></iframe>
+		</div>
+	</div>
+	<div id="2015" class="tab-pane fade">
+		<div class="video-container">
+		<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/3.embed"></iframe>
+		</div>
+	</div>
 	<div id="2016" class="tab-pane fade">Map 2016</div>
 	<div id="2017" class="tab-pane fade">Map 2017</div>
 	<div id="2018" class="tab-pane fade">Map 2018</div>
