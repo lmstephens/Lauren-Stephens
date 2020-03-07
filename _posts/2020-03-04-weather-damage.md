@@ -25,7 +25,7 @@ comments: true
 </ul>
 
 <div class="tab-content" id="myTabContent">
-	<div id="2013" class="tab-pane fade active">
+	<div id="2013" class="tab-pane fade">
 		<img src="../img/2013map.png">
 	</div>
 	<div id="2014" class="tab-pane fade">
