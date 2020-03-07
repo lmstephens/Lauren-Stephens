@@ -26,47 +26,29 @@ comments: true
 
 <div class="tab-content" id="myTabContent">
 	<div id="2013" class="tab-pane fade show active">
-		<div class="video-container">
-		<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
-		</div>
+		<img src="../img/2013map.png">
 	</div>
 	<div id="2014" class="tab-pane fade">
-		<div class="video-container">
-		<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/1.embed"></iframe>
-		</div>
+		<img src="../img/2014map.png">
 	</div>
 	<div id="2015" class="tab-pane fade">
-		<div class="video-container">
-		<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/3.embed"></iframe>
-		</div>
+		<img src="../img/2015map.png">
 	</div>
-	<div id="2016" class="tab-pane fade">Map 2016</div>
-	<div id="2017" class="tab-pane fade">Map 2017</div>
-	<div id="2018" class="tab-pane fade">Map 2018</div>
-	<div id="2019" class="tab-pane fade">Map 2019</div>
+	<div id="2016" class="tab-pane fade">
+		<img src="../img/2016map.png">
+	</div>
+	<div id="2017" class="tab-pane fade">
+		<img src="../img/2017map.png">
+	</div>
+	<div id="2018" class="tab-pane fade">
+		<img src="../img/2018map.png">
+	</div>
+	<div id="2019" class="tab-pane fade">
+		<img src="../img/2019map.png">
+	</div>
 </div>
 
 <div class="video-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
 </div>
-<div class="video-container">
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/1.embed"></iframe>
-</div>
-<div class="video-container">
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/3.embed"></iframe>
-</div>
-<div class="video-container">
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/6.embed"></iframe>
-</div>
-<div class="video-container">
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/8.embed"></iframe>
-</div>
-<div class="video-container">
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/10.embed"></iframe>
-</div>
-<div class="video-container">
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/13.embed"></iframe>
-</div>
-<div class="video-container">
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/15.embed"></iframe>
-</div>
+
