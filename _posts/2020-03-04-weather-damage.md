@@ -24,6 +24,17 @@ comments: true
   <li><a href="#2019" data-toggle="tab">2019</a></li>
 </ul>
 
+<div class="tab-content" id="myTabContent">
+	<div id="2013">Map 2013</div>
+	<div id="2014">Map 2014</div>
+	<div id="2015">Map 2015</div>
+	<div id="2016">Map 2016</div>
+	<div id="2017">Map 2017</div>
+	<div id="2018">Map 2018</div>
+	<div id="2019">Map 2019</div>
+</div>
+
+
 <div>
     <a href="https://plot.ly/~Lmstephens/1/?share_key=R80WAM6FMaPIl9tgBIGtwx" target="_blank" title="2013 Weather Damage" style="display: block; text-align: center;"><img src="https://plot.ly/~Lmstephens/1.png?share_key=R80WAM6FMaPIl9tgBIGtwx" alt="2013 Weather Damage" style="max-width: 100%;width: 1200px;"  width="1200" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="Lmstephens:1" sharekey-plotly="R80WAM6FMaPIl9tgBIGtwx" src="https://plot.ly/embed.js" async></script>
