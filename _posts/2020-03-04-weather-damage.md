@@ -14,6 +14,11 @@ comments: true
 
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
 
+<div>
+    <a href="https://plot.ly/~Lmstephens/1/?share_key=R80WAM6FMaPIl9tgBIGtwx" target="_blank" title="2013 Weather Damage" style="display: block; text-align: center;"><img src="https://plot.ly/~Lmstephens/1.png?share_key=R80WAM6FMaPIl9tgBIGtwx" alt="2013 Weather Damage" style="max-width: 100%;width: 1200px;"  width="1200" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Lmstephens:1" sharekey-plotly="R80WAM6FMaPIl9tgBIGtwx" src="https://plot.ly/embed.js" async></script>
+</div>
+
 <div class="video-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
 </div>
