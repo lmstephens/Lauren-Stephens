@@ -342,5 +342,6 @@ comments: true
     </table>
   </div>
 </div>
-
+<div class="col-lg-12">
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
+</div>
