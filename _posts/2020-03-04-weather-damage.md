@@ -60,8 +60,6 @@ comments: true
 	</div>
 </div>
 
-<div class="col-lg-12">
-  <div class="col-lg-5">
     <h2>2013</h2>
     <table class="table">
         <tr>
@@ -95,8 +93,6 @@ comments: true
           <td>609917000</td>
         </tr>
     </table>
-  </div>
-</div>
-<div class="col-lg-12">
+
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
-</div>
+
