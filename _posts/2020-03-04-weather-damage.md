@@ -60,39 +60,29 @@ comments: true
 	</div>
 </div>
 
-    <h2>2013</h2>
-    <table class="table">
-        <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
-        </tr>
-        <tr>
-          <th>1</th>
-          <td>OK</td>
-          <td>2023424300</td>
-        </tr>
-        <tr>
-          <th>2</th>
-          <td>IL</td>
-          <td>1562382000/td>
-        </tr>
-        <tr>
-          <th>3</th>
-          <td>TX</td>
-          <td>1410698000</td>
-        </tr>
-        <tr>
-          <th>4</th>
-          <td>CO</td>
-          <td>1003891750</td>
-        </tr>
-        <tr>
-          <th>5</th>
-          <td>MS</td>
-          <td>609917000</td>
-        </tr>
-    </table>
+    <table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
 
