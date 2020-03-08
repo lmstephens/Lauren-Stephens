@@ -12,6 +12,8 @@ comments: true
 
 <p>I took a look at the cost incurred by weather damage in the years 2013-2019 which excludes crop damage to see if I could find any of my own patterns. </p>
 
+<p>One of the patterns I noticed first was that after 2015 the cost of damage skyrocketed and didn’t come back down till 2019. In 2020 we have already seen major damage from tornadoes and flooding so I feel like it might turn out to be another high year possible like 2017 or 2018. With climate change intensifying storms I am very interested to see if the high cost of storm damage will continue.</p>
+
 <div class="video-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
 </div>
