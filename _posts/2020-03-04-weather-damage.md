@@ -31,8 +31,8 @@ comments: true
 
 <div class="tab-content" id="myTabContent">
 	<div id="2013" class="tab-pane fade active in">
-		<img src="../img/2013map-final.png">
 		<a href="https://plot.ly/~Lmstephens/21/" target="_blank">Click to view interactive map</a>
+		<img src="../img/2013map-final.png">
 	</div>
 	<div id="2014" class="tab-pane fade">
 		<a href="https://plot.ly/~Lmstephens/23/" target="_blank">Click to view interactive map</a>
