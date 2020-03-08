@@ -59,9 +59,10 @@ comments: true
 		<img src="../img/2019map-final.png">
 	</div>
 </div>
+
 <h2>2013</h2>
 <table class="table">
-  <thead class="thead-dark">
+  <thead class="thead-light">
     <tr>
       <th scope="col">#</th>
       <th scope="col">State</th>
