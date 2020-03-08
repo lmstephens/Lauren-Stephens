@@ -17,8 +17,8 @@ comments: true
 <div class="video-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
 </div>
-
-<p>Click on the tabs below to see more maps by year</p>
+<p>The next pattern I noticed was that Texas was always at or near the top of the list for the most cost in damage per year. </p>
+<p><strong>Click on the tabs below to see more maps by year</strong></p>
 <ul class="nav nav-tabs">
   <li><a href="#2013" data-toggle="tab">2013</a></li>
   <li><a href="#2014" data-toggle="tab">2014</a></li>
@@ -59,7 +59,7 @@ comments: true
 		<img src="../img/2019map-final.png">
 	</div>
 </div>
-
+<p><strong>Top 5 states with the most damage per year</strong></p>
 <div class="col-lg-12">
 	<div class="col-lg-3">
 		<h2>2013</h2>
