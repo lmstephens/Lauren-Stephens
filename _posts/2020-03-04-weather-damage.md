@@ -60,7 +60,7 @@ comments: true
 	</div>
 </div>
 <h2>2013</h2>
-   | Rank      | State |     | Damaged Property |
+| Rank      | State |      Damaged Property |
 | ----------- | ----------- | ----------- |
 | 1           | OK          | $2,023,424,300|
 | 2           | IL          | $1,562,382,000|
