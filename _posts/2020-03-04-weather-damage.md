@@ -69,7 +69,6 @@ comments: true
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-
         <tr>
           <th>1</th>
           <td>OK</td>
@@ -106,7 +105,6 @@ comments: true
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-
         <tr>
           <th>1</th>
           <td>MI</td>
@@ -143,7 +141,6 @@ comments: true
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-
         <tr>
           <th>1</th>
           <td>TX</td>
@@ -175,7 +172,6 @@ comments: true
   <div class="col-lg-5">
     <h2>2016</h2>
     <table class="table">
-
         <tr>
           <th>#</th>
           <th>State</th>
@@ -217,7 +213,6 @@ comments: true
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-
         <tr>
           <th>1</th>
           <td>TX</td>
@@ -253,7 +248,6 @@ comments: true
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-
         <tr>
           <th>1</th>
           <td>CA</td>
@@ -290,7 +284,6 @@ comments: true
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-
         <tr>
           <th>1</th>
           <td>TX</td>
