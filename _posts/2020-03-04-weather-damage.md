@@ -30,24 +30,24 @@ comments: true
 
 <div class="tab-content" id="myTabContent">
 	<div id="2013" class="tab-pane fade">
-		<img src="../img/2013map.png">
+		<img src="../img/2013map-final.png">
 	</div>
 	<div id="2014" class="tab-pane fade">
-		<img src="../img/2014map.png">
+		<img src="../img/2014map-final.png">
 	</div>
 	<div id="2015" class="tab-pane fade">
-		<img src="../img/2015map.png">
+		<img src="../img/2015map-final.png">
 	</div>
 	<div id="2016" class="tab-pane fade">
-		<img src="../img/2016map.png">
+		<img src="../img/2016map-final.png">
 	</div>
 	<div id="2017" class="tab-pane fade">
-		<img src="../img/2017map.png">
+		<img src="../img/2017map-final.png">
 	</div>
 	<div id="2018" class="tab-pane fade">
-		<img src="../img/2018map.png">
+		<img src="../img/2018map-final.png">
 	</div>
 	<div id="2019" class="tab-pane fade">
-		<img src="../img/2019map.png">
+		<img src="../img/2019map-final.png">
 	</div>
 </div>
