@@ -31,31 +31,31 @@ comments: true
 
 <div class="tab-content" id="myTabContent">
 	<div id="2013" class="tab-pane fade active in">
-		<a href="https://plot.ly/~Lmstephens/21/" target="_blank">Click to view interactive map</a>
+		<a href="https://plot.ly/~Lmstephens/21/" target="_blank">Click to view 2013 interactive map</a>
 		<img src="../img/2013map-final.png">
 	</div>
 	<div id="2014" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/23/" target="_blank">Click to view interactive map</a>
+		<a href="https://plot.ly/~Lmstephens/23/" target="_blank">Click to view 2014 interactive map</a>
 		<img src="../img/2014map-final.png">
 	</div>
 	<div id="2015" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/25/" target="_blank">Click to view interactive map</a>
+		<a href="https://plot.ly/~Lmstephens/25/" target="_blank">Click to view 2015 interactive map</a>
 		<img src="../img/2015map-final.png">
 	</div>
 	<div id="2016" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/27/" target="_blank">Click to view interactive map</a>
+		<a href="https://plot.ly/~Lmstephens/27/" target="_blank">Click to view 2016 interactive map</a>
 		<img src="../img/2016map-final.png">
 	</div>
 	<div id="2017" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/29/" target="_blank">Click to view interactive map</a>
+		<a href="https://plot.ly/~Lmstephens/29/" target="_blank">Click to view 2017 interactive map</a>
 		<img src="../img/2017map-final.png">
 	</div>
 	<div id="2018" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/31/" target="_blank">Click to view interactive map</a>
+		<a href="https://plot.ly/~Lmstephens/31/" target="_blank">Click to view 2018 interactive map</a>
 		<img src="../img/2018map-final.png">
 	</div>
 	<div id="2019" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/33/" target="_blank">Click to view interactive map</a>
+		<a href="https://plot.ly/~Lmstephens/33/" target="_blank">Click to view 2019 interactive map</a>
 		<img src="../img/2019map-final.png">
 	</div>
 </div>
@@ -119,5 +119,6 @@ comments: true
 	</div>
 </div>
 <br>
+<p></p>
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
 
