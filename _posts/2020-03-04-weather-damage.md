@@ -61,7 +61,7 @@ comments: true
 </div>
 <p><strong>Top 5 states with the most damage per year</strong></p>
 <div class="col-lg-12">
-	<div class="col-lg-3">
+	<div class="col-md-3">
 		<h2>2013</h2>
 		1) OK $2,023,424,300 <br>
 		2) IL $1,562,382,000 <br>
@@ -69,7 +69,7 @@ comments: true
 		4) CO $1,003,891,750 <br>
 		5) MS $609,917,000 <br>
 	</div>
-	<div class="col-lg-3">
+	<div class="col-md-3">
 		<h2>2014</h2>
 		1) MI $1,881,374,000<br>
 		2) <strong>TX $1,026,154,650</strong><br>
@@ -77,7 +77,7 @@ comments: true
 		4) AR $266,334,400 <br>
 		5) IL $255,703,000 <br>
 	</div>
-	<div class="col-lg-3">
+	<div class="col-md-3">
 		<h2>2015</h2>
 		1) <strong>TX $2,143,740,069</strong> <br>
 		2) NM $410,924,700 <br>
@@ -85,7 +85,7 @@ comments: true
 		4) NE $235,079,799<br>
 		5) SC $153,771,870<br>
 	</div>
-	<div class="col-lg-3">
+	<div class="col-md-3">
 		<h2>2016</h2>
 		1) LA $9,205,589,800<br>
 		2) <strong>TX $3,610,540,800</strong><br>
@@ -93,7 +93,7 @@ comments: true
 		4) NC $832,141,298<br>
 		5) SC $253,066,400<br>
 	</div>
-	<div class="col-lg-3">
+	<div class="col-md-3">
 		<h2>2017</h2>
 		1) <strong>TX $51,536,934,600</strong><br>
 		2) PR $19,028,218,000<br>
@@ -101,7 +101,7 @@ comments: true
 		4) CO $2,327,483,300<br>
 		5) CA $866,948,550<br>
 	</div>
-	<div class="col-lg-3">
+	<div class="col-md-3">
 		<h2>2018</h2>
 		1) CA $19,235,667,900<br>
 		2) FL $4,209,301,160<br>
@@ -109,7 +109,7 @@ comments: true
 		4) GA $1,545,984,010<br>
 		5) CO $669,220,000<br>
 	</div>
-	<div class="col-lg-3">
+	<div class="col-md-3">
 		<h2>2019</h2>
 		1) <strong>TX $3,093,746,900</strong><br>
 		2) OH $690,880,900<br>
