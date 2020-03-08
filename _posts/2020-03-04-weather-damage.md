@@ -65,32 +65,32 @@ comments: true
     <h2>2013</h2>
     <table class="table">
         <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
+          <td>#</td>
+          <td>State</td>
+          <td>Damage Property</td>
         </tr>
         <tr>
-          <th>1</th>
+          <td>1</td>
           <td>OK</td>
           <td>2023424300</td>
         </tr>
         <tr>
-          <th>2</th>
+          <td>2</td>
           <td>IL</td>
           <td>1562382000/td>
         </tr>
         <tr>
-          <th>3</th>
+          <td>3</td>
           <td>TX</td>
           <td>1410698000</td>
         </tr>
         <tr>
-          <th>4</th>
+          <td>4</td>
           <td>CO</td>
           <td>1003891750</td>
         </tr>
         <tr>
-          <th>5</th>
+          <td>5</td>
           <td>MS</td>
           <td>609917000</td>
         </tr>
@@ -101,32 +101,32 @@ comments: true
     <h2>2014</h2>
     <table class="table">
         <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
+          <td>#</td>
+          <td>State</td>
+          <td>Damage Property</td>
         </tr>
         <tr>
-          <th>1</th>
+          <td>1</td>
           <td>MI</td>
           <td>1881374000</td>
         </tr>
         <tr>
-          <th>2</th>
+          <td>2</td>
           <td>TX</td>
           <td>1026154650</td>
         </tr>
         <tr>
-          <th>3</th>
+          <td>3</td>
           <td>WA</td>
           <td>328164500</td>
         </tr>
         <tr>
-          <th>4</th>
+          <td>4</td>
           <td>AR</td>
           <td>266334400</td>
         </tr>
         <tr>
-          <th>5</th>
+          <td>5</td>
           <td>IL</td>
           <td>255703000</td>
         </tr>
@@ -137,32 +137,32 @@ comments: true
     <h2>2015</h2>
     <table class="table">
         <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
+          <td>#</td>
+          <td>State</td>
+          <td>Damage Property</td>
         </tr>
         <tr>
-          <th>1</th>
+          <td>1</td>
           <td>TX</td>
           <td>2143740069</td>
         </tr>
         <tr>
-          <th>2</th>
+          <td>2</td>
           <td>NM</td>
           <td>410924700</td>
         </tr>
         <tr>
-          <th>3</th>
+          <td>3</td>
           <td>MO</td>
           <td>323680000</td>
         </tr>
         <tr>
-          <th>4</th>
+          <td>4</td>
           <td>NE</td>
           <td>235079799</td>
         </tr>
         <tr>
-          <th>5</th>
+          <td>5</td>
           <td>SC</td>
           <td>153771870</td>
         </tr>
@@ -173,32 +173,32 @@ comments: true
     <h2>2016</h2>
     <table class="table">
         <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
+          <td>#</td>
+          <td>State</td>
+          <td>Damage Property</td>
         </tr>
         <tr>
-          <th>1</th>
+          <td>1</td>
           <td>LA</td>
           <td>9205589800</td>
         </tr>
         <tr>
-          <th>2</th>
+          <td>2</td>
           <td>TX</td>
           <td>3610540800</td>
         </tr>
         <tr>
-          <th>3</th>
+          <td>3</td>
           <td>FL</td>
           <td>3132700150</td>
         </tr>
         <tr>
-          <th>4</th>
+          <td>4</td>
           <td>NC</td>
           <td>832141298</td>
         </tr>
         <tr>
-          <th>5</th>
+          <td>5</td>
           <td>SC</td>
           <td>253066400</td>
         </tr>
@@ -209,32 +209,32 @@ comments: true
     <h2>2017</h2>
     <table class="table">
         <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
+          <td>#</td>
+          <td>State</td>
+          <td>Damage Property</td>
         </tr>
         <tr>
-          <th>1</th>
+          <td>1</td>
           <td>TX</td>
           <td>51536934600</td>
         </tr>
         <tr>
-          <th>2</th>
+          <td>2</td>
           <td>PR</td>
           <td>19028218000</td>
         </tr>
         <tr>
-          <th>3</th>
+          <td>3</td>
           <td>FL</td>
           <td>3922582960</td>
         </tr>
         <tr>
-          <th>4</th>
+          <td>4</td>
           <td>CO</td>
           <td>2327483300</td>
         </tr>
         <tr>
-          <th>5</th>
+          <td>5</td>
           <td>CA</td>
           <td>866948550</td>
         </tr>
@@ -244,32 +244,32 @@ comments: true
     <h2>2018</h2>
     <table class="table">
         <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
+          <td>#</td>
+          <td>State</td>
+          <td>Damage Property</td>
         </tr>
         <tr>
-          <th>1</th>
+          <td>1</td>
           <td>CA</td>
           <td>19235667900</td>
         </tr>
         <tr>
-          <th>2</th>
+          <td>2</td>
           <td>FL</td>
           <td>4209301160</td>
         </tr>
         <tr>
-          <th>3</th>
+          <td>3</td>
           <td>NC</td>
           <td>2024526458</td>
         </tr>
         <tr>
-          <th>4</th>
+          <td>4</td>
           <td>GA</td>
           <td>1545984010</td>
         </tr>
         <tr>
-          <th>5</th>
+          <td>5</td>
           <td>CO</td>
           <td>669220000</td>
         </tr>
@@ -280,32 +280,32 @@ comments: true
     <h2>2019</h2>
     <table class="table">
         <tr>
-          <th>#</th>
-          <th>State</th>
-          <th>Damage Property</th>
+          <td>#</td>
+          <td>State</td>
+          <td>Damage Property</td>
         </tr>
         <tr>
-          <th>1</th>
+          <td>1</td>
           <td>TX</td>
           <td>3093746900</td>
         </tr>
         <tr>
-          <th>2</th>
+          <td>2</td>
           <td>OH</td>
           <td>690880900</td>
         </tr>
         <tr>
-          <th>3</th>
+          <td>3</td>
           <td>NE</td>
           <td>640944500</td>
         </tr>
         <tr>
-          <th>4</th>
+          <td>4</td>
           <td>MO</td>
           <td>222409500</td>
         </tr>
         <tr>
-          <th>5</th>
+          <td>5</td>
           <td>MI</td>
           <td>202851000</td>
         </tr>
