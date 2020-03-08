@@ -59,11 +59,14 @@ comments: true
 		<img src="../img/2019map-final.png">
 	</div>
 </div>
-
-   | Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+<h2>2013</h2>
+   | Rank      | State |     | Damaged Property |
+| ----------- | ----------- | ----------- |
+| 1           | OK          | $2,023,424,300|
+| 2           | IL          | $1,562,382,000|
+| 3           | TX          | $1,410,698,000|
+| 4           | CO          | $1,003,891,750|
+| 5           | MS          | $609,917,000|
 
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
 
