@@ -64,14 +64,12 @@ comments: true
   <div class="col-lg-5">
     <h2>2013</h2>
     <table class="table">
-      <thead>
         <tr>
           <th>#</th>
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-      </thead>
-      <tbody>
+
         <tr>
           <th>1</th>
           <td>OK</td>
@@ -97,21 +95,18 @@ comments: true
           <td>MS</td>
           <td>609917000</td>
         </tr>
-      </tbody>
     </table>
   </div>
 
   <div class="col-lg-5">
     <h2>2014</h2>
     <table class="table">
-      <thead>
         <tr>
           <th>#</th>
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-      </thead>
-      <tbody>
+
         <tr>
           <th>1</th>
           <td>MI</td>
@@ -137,21 +132,18 @@ comments: true
           <td>IL</td>
           <td>255703000</td>
         </tr>
-      </tbody>
     </table>
   </div>
     
   <div class="col-lg-5">
     <h2>2015</h2>
     <table class="table">
-      <thead>
         <tr>
           <th>#</th>
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-      </thead>
-      <tbody>
+
         <tr>
           <th>1</th>
           <td>TX</td>
@@ -177,21 +169,18 @@ comments: true
           <td>SC</td>
           <td>153771870</td>
         </tr>
-      </tbody>
     </table>
   </div>
 
   <div class="col-lg-5">
     <h2>2016</h2>
     <table class="table">
-      <thead>
+
         <tr>
           <th>#</th>
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-      </thead>
-      <tbody>
         <tr>
           <th>1</th>
           <td>LA</td>
@@ -217,21 +206,18 @@ comments: true
           <td>SC</td>
           <td>253066400</td>
         </tr>
-      </tbody>
     </table>
   </div>
 
   <div class="col-lg-5">
     <h2>2017</h2>
     <table class="table">
-      <thead>
         <tr>
           <th>#</th>
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-      </thead>
-      <tbody>
+
         <tr>
           <th>1</th>
           <td>TX</td>
@@ -257,21 +243,17 @@ comments: true
           <td>CA</td>
           <td>866948550</td>
         </tr>
-      </tbody>
-    </table>
   </div>
 
   <div class="col-lg-5">
     <h2>2018</h2>
     <table class="table">
-      <thead>
         <tr>
           <th>#</th>
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-      </thead>
-      <tbody>
+
         <tr>
           <th>1</th>
           <td>CA</td>
@@ -297,21 +279,18 @@ comments: true
           <td>CO</td>
           <td>669220000</td>
         </tr>
-      </tbody>
     </table>
   </div>
 
   <div class="col-lg-5">
     <h2>2019</h2>
     <table class="table">
-      <thead>
         <tr>
           <th>#</th>
           <th>State</th>
           <th>Damage Property</th>
         </tr>
-      </thead>
-      <tbody>
+
         <tr>
           <th>1</th>
           <td>TX</td>
@@ -337,7 +316,6 @@ comments: true
           <td>MI</td>
           <td>202851000</td>
         </tr>
-      </tbody>
     </table>
   </div>
 </div>
