@@ -119,8 +119,9 @@ comments: true
 	</div>
 </div>
 <br>
-<br>
+<div class="col-lg-12">
 <p>In conclusion I found out a lot of useful information about property damage inside the United States. I think there could be a lot more opportunities to explore with this dataset such as how it compares to the past 10-20 years or compare it to crop damage in the same years.</p>
+</div>
 <br>
 <a href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/">Here</a> is the link to the data I used.
 
