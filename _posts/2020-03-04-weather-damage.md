@@ -17,6 +17,8 @@ comments: true
 <div class="video-container">
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/19.embed"></iframe>
 </div>
+
+
 <p>The next pattern I noticed was that Texas was always at or near the top of the list for the most cost incurred per year. </p>
 <p><strong>Click on the tabs below to see more maps by year</strong></p>
 <ul class="nav nav-tabs">
@@ -32,7 +34,9 @@ comments: true
 <div class="tab-content" id="myTabContent">
 	<div id="2013" class="tab-pane fade active in">
 		<a href="https://plot.ly/~Lmstephens/21/" target="_blank">Click to view 2013 interactive map</a>
-		<img src="../img/2013map-final.png">
+		<div class="video-container">
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/21.embed"></iframe>
+</div>
 	</div>
 	<div id="2014" class="tab-pane fade">
 		<a href="https://plot.ly/~Lmstephens/23/" target="_blank">Click to view 2014 interactive map</a>
