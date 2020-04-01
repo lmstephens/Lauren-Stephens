@@ -32,35 +32,48 @@ comments: true
 </ul>
 
 <div class="tab-content" id="myTabContent">
+	<!-- id="" needs to coropond to the href="#" above-->
 	<div id="2013" class="tab-pane fade active in">
-		<a href="https://plot.ly/~Lmstephens/21/" target="_blank">Click to view 2013 interactive map</a>
-		<div class="video-container">
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Lmstephens/21.embed"></iframe>
-</div>
+		<p>Data from 2013 hover below</p><!-- This is a paragraph-->
+		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/23.embed"></iframe><!-- This is your plotly code-->
+		</div>
 	</div>
 	<div id="2014" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/23/" target="_blank">Click to view 2014 interactive map</a>
-		<img src="../img/2014map-final.png">
+		<p>Data from 2014 hover below</p><!-- This is a paragraph-->
+		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/25.embed"></iframe><!-- This is your plotly code-->
+		</div>
 	</div>
 	<div id="2015" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/25/" target="_blank">Click to view 2015 interactive map</a>
-		<img src="../img/2015map-final.png">
+		<p>Data from 2015 hover below</p><!-- This is a paragraph-->
+		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/27.embed"></iframe><!-- This is your plotly code-->
+		</div>
 	</div>
 	<div id="2016" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/27/" target="_blank">Click to view 2016 interactive map</a>
-		<img src="../img/2016map-final.png">
+		<p>Data from 2016 hover below</p><!-- This is a paragraph-->
+		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/29.embed"></iframe><!-- This is your plotly code-->
+		</div>
 	</div>
 	<div id="2017" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/29/" target="_blank">Click to view 2017 interactive map</a>
-		<img src="../img/2017map-final.png">
+		<p>Data from 2017 hover below</p><!-- This is a paragraph-->
+		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/31.embed"></iframe><!-- This is your plotly code-->
+		</div>
 	</div>
 	<div id="2018" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/31/" target="_blank">Click to view 2018 interactive map</a>
-		<img src="../img/2018map-final.png">
+		<p>Data from 2018 hover below</p><!-- This is a paragraph-->
+		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/31.embed"></iframe><!-- This is your plotly code-->
+		</div>
 	</div>
 	<div id="2019" class="tab-pane fade">
-		<a href="https://plot.ly/~Lmstephens/33/" target="_blank">Click to view 2019 interactive map</a>
-		<img src="../img/2019map-final.png">
+		<p>Data from 2019 hover below</p><!-- This is a paragraph-->
+		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/33.embed"></iframe><!-- This is your plotly code-->
+		</div>
 	</div>
 </div>
 <p><strong>Top 5 states with the most damage per year</strong></p>
