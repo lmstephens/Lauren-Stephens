@@ -36,32 +36,33 @@ comments: true
 	<div id="2013" class="tab-pane fade active in">
 		<p>Data from 2013 hover below</p><!-- This is a paragraph-->
 		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
-			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/21.embed"></iframe><!-- This is your plotly code-->
+			<iframe width="100%" height="800" style="border:none;" seamless="seamless" scrolling="no" src="//plotly.com/~Lmstephens/21.embed"></iframe><!-- This is your plotly code-->
 		</div>
 	</div>
 	<div id="2014" class="tab-pane fade">
 		<p>Data from 2014 hover below</p><!-- This is a paragraph-->
 		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
-			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/23.embed"></iframe><!-- This is your plotly code-->
+			<iframe width="100%" height="800" style="border:none;" seamless="seamless" scrolling="no" src="//plotly.com/~Lmstephens/23.embed"></iframe><!-- This is your plotly code-->
 		</div>
 	</div>
 	<div id="2015" class="tab-pane fade">
 		<p>Data from 2015 hover below</p><!-- This is a paragraph-->
 		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
-			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/25.embed"></iframe><!-- This is your plotly code-->
+			<iframe width="100%" height="800" style="border:none;" seamless="seamless" scrolling="no" src="//plotly.com/~Lmstephens/25.embed"></iframe><!-- This is your plotly code-->
 		</div>
 	</div>
 	<div id="2016" class="tab-pane fade">
 		<p>Data from 2016 hover below</p><!-- This is a paragraph-->
 		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
-			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/27.embed"></iframe><!-- This is your plotly code-->
+			<iframe width="100%" height="800" style="border:none;" seamless="seamless" scrolling="no" src="//plotly.com/~Lmstephens/27.embed"></iframe><!-- This is your plotly code-->
 		</div>
 	</div>
 	<div id="2017" class="tab-pane fade">
 		<p>Data from 2017 hover below</p><!-- This is a paragraph-->
 		<div class="video-container"><!-- This is the container that you need to put your plotly code in-->
-			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Lmstephens/29.embed"></iframe><!-- This is your plotly code-->
+			<iframe width="100%" height="800" style="border:none;" seamless="seamless" scrolling="no" src="//plotly.com/~Lmstephens/29.embed"></iframe><!-- This is your plotly code-->
 		</div>
+		
 	</div>
 	<div id="2018" class="tab-pane fade">
 		<p>Data from 2018 hover below</p><!-- This is a paragraph-->
